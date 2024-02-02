@@ -5,5 +5,5 @@ EventsSDK.on("GameStarted", () => {
 })
 
 EventsSDK.on("GameStarted", () => {
-	console.log("AGa!")
+	console.log("AGaaaa!")
 })
